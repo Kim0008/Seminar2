@@ -1,0 +1,15 @@
+C:\Users\kim02\Desktop\Войти в IT\C#\C# Семинар 2\2.2\obj\Debug\net6.0\2.2.csproj.AssemblyReference.cache
+C:\Users\kim02\Desktop\Войти в IT\C#\C# Семинар 2\2.2\obj\Debug\net6.0\2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kim02\Desktop\Войти в IT\C#\C# Семинар 2\2.2\obj\Debug\net6.0\2.2.AssemblyInfoInputs.cache
+C:\Users\kim02\Desktop\Войти в IT\C#\C# Семинар 2\2.2\obj\Debug\net6.0\2.2.AssemblyInfo.cs
+C:\Users\kim02\Desktop\Войти в IT\C#\C# Семинар 2\2.2\obj\Debug\net6.0\2.2.csproj.CoreCompileInputs.cache
+C:\Users\kim02\Desktop\Войти в IT\C#\C# Семинар 2\2.2\bin\Debug\net6.0\2.2.exe
+C:\Users\kim02\Desktop\Войти в IT\C#\C# Семинар 2\2.2\bin\Debug\net6.0\2.2.deps.json
+C:\Users\kim02\Desktop\Войти в IT\C#\C# Семинар 2\2.2\bin\Debug\net6.0\2.2.runtimeconfig.json
+C:\Users\kim02\Desktop\Войти в IT\C#\C# Семинар 2\2.2\bin\Debug\net6.0\2.2.dll
+C:\Users\kim02\Desktop\Войти в IT\C#\C# Семинар 2\2.2\bin\Debug\net6.0\2.2.pdb
+C:\Users\kim02\Desktop\Войти в IT\C#\C# Семинар 2\2.2\obj\Debug\net6.0\2.2.dll
+C:\Users\kim02\Desktop\Войти в IT\C#\C# Семинар 2\2.2\obj\Debug\net6.0\refint\2.2.dll
+C:\Users\kim02\Desktop\Войти в IT\C#\C# Семинар 2\2.2\obj\Debug\net6.0\2.2.pdb
+C:\Users\kim02\Desktop\Войти в IT\C#\C# Семинар 2\2.2\obj\Debug\net6.0\2.2.genruntimeconfig.cache
+C:\Users\kim02\Desktop\Войти в IT\C#\C# Семинар 2\2.2\obj\Debug\net6.0\ref\2.2.dll
